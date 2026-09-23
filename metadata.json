@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Medical Store Management System",
+  "description": "A Full-Stack Web-Based Medical Inventory, Product and Order Management System with complete CRUD, inventory tracking, expiry monitoring, and XAMPP/PHP/MySQL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
